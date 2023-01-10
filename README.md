@@ -1,6 +1,6 @@
 ### Hi, I'm Mariana Mancan 👋
 
-I'm currently working as a developer at <a href="https://www.linkedin.com/company/kz-tecnologia/">KZ Tecnologia 
+I'm currently working as a Java developer at <a href="https://www.linkedin.com/company/autbank---projetos-e-consultoria-ltda/mycompany/">Autbank - Projetos e Consultoria Ltda
 
 Undergrad student in Systems Analysis and Development at <a href="https://www.fatecourinhos.edu.br/aluno/">FATEC Ourinhos</a>.
 
