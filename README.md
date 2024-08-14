@@ -2,7 +2,7 @@
 
 I'm currently working as a Java developer at <a href="https://www.linkedin.com/company/autbank---projetos-e-consultoria-ltda/mycompany/">Autbank - Projetos e Consultoria Ltda
 
-Undergrad student in Systems Analysis and Development at <a href="https://www.fatecourinhos.edu.br/aluno/">FATEC Ourinhos</a>.
+Graduated student in Systems Analysis and Development at <a href="https://www.fatecourinhos.edu.br/aluno/">FATEC Ourinhos</a>.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariana-frederico-mancan) 
